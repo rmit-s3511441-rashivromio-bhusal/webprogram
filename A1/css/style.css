@@ -1,0 +1,231 @@
+
+
+p{
+color:white;
+font-weight:bold;
+text-align:center
+}
+ 
+
+.seat
+{
+display: block;
+
+width:300px;
+height:300px;
+border:solid #ffffff;
+border-width : 8px 8px 20 px;
+
+border-width:8px 8px 20px 8px;
+border style: solid;
+
+float:right;
+margin-left:20px;
+margin-bottom:20px;
+}
+
+.threed
+{
+display: block;
+
+
+width:250px;
+height:200px;
+border:solid #ffffff;
+
+border-width:8px 8px 20px 8px;
+border style: solid;
+
+float:right;
+margin-top:20px;
+margin-left:20px;
+margin-bottom:20px;
+}
+
+.dolby
+{
+display: block;
+
+margin-right: auto;
+width:300px;
+height:300px;
+border:solid #ffffff;
+
+
+border-width:8px 8px 20px 8px;
+border style: solid;
+border color: #ffffff;
+float:right;
+margin-left:20px;
+margin-bottom:20px;
+}
+
+.cinema2
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width:300px;
+height:300px;
+border:solid #ffffff;
+border-width : 8px 8px 20 px;
+}
+
+.aaa {
+float: left;
+width:128px;
+height:128px;
+
+}
+.sss
+{float: right;
+width:128px;
+height:128px;
+border:solid #ffffff;
+border-width : 8px 8px 20 px;
+}
+
+body
+		{
+
+			background-image: url("paper.gif");
+			background-color: #000000;
+		}
+	  
+		h1
+		{ 
+			text-shadow: 2px 2px #FF0000;
+			text-align: center;
+			font-size:100%;
+		}
+		
+#icon
+{
+text-align:center;
+width:128px;
+height:128px ;
+
+}
+
+#ficon
+
+{
+text-align:center;
+width:128px;
+height:128px;
+
+}
+
+
+		header
+		{
+			font-size:200%;
+			
+			background-color:black;
+			color:white;
+			padding:10px;
+		}
+	  
+		header *
+		{
+			vertical-align:middle; 
+			margin-right:60px;		
+		}
+
+       main
+		{
+			background-image: url("paper.gif");
+			padding:10px 10px 50px 30px;
+			font-size:100%;
+
+		}
+	  
+		.inputEmail
+		{
+			width:200px;
+
+		margin-bottom:10px;
+		border:solid #ffffff;
+  		border-width : 8px 8px 20 px;
+
+		}
+		
+
+		.inS
+		{
+		
+		margin-bottom:20px;
+		
+		}
+		.inputMessage
+		{	
+
+		width:200px; 
+		margin-bottom:10px;
+		
+			}
+     
+		nav
+		{
+			border-top:solid 2px;
+			border-bottom:solid 2px;  /*border*/
+			color: black;
+			border:solid #ffffff;
+			border-width : 8px 8px 20 px;
+		}
+
+
+
+		nav li
+		{
+			text-align:center;
+			
+			margin:1px 12px;
+		}
+
+		nav ul li a:link, nav ul li a:visited 
+		{
+			color: white;
+			font-size:100%;
+		}
+
+		nav ul li
+		{
+			display:inline;
+			padding-right: 20px;
+			font-size:100%;
+		}
+
+		nav ul li a:hover
+		{
+			color: red;
+		}
+
+		nav ul li a:link
+		{
+			text-decoration:none;
+		}
+
+		nav
+      
+		{     
+			background-color:rgb(112,0,0);
+			padding:5px;
+		}
+		footer
+		{
+		color:white;
+		}
+	 
+	 
+		form
+		{
+			width:200px;
+			color:white;
+			
+		}
+		
+		div
+		{
+			padding-left: 50px;
+		}
